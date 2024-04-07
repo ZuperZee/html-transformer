@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Open Sans";
+  src: url("file://wsl.localhost/Ubuntu/home/zee/dev/html-parse-dev/OpenSans-VariableFont_wdth,wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+}
